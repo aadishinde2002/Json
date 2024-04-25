@@ -118,8 +118,8 @@
         "title": "Product Designer",
         "location": "India",
         "applicants": 0,
-        "createdDate": "June 20, 2023",
-        "expiryDate": "June 21, 2029",
+        "createdDate": "Jun 20, 2023",
+        "expiryDate": "Jun 21, 2029",
         "status": "Active"
       },
       {
@@ -136,8 +136,8 @@
         "title": "Marketing Manager",
         "location": "Canada",
         "applicants": 1,
-        "createdDate": "April 10, 2024",
-        "expiryDate": "April 10, 2026",
+        "createdDate": "Apr 10, 2024",
+        "expiryDate": "Apr 10, 2026",
         "status": "Active"
       },
       {
@@ -145,8 +145,8 @@
         "title": "Frontend Developer",
         "location": "Germany",
         "applicants": 2,
-        "createdDate": "January 5, 2023",
-        "expiryDate": "January 5, 2025",
+        "createdDate": "Jan 5, 2023",
+        "expiryDate": "Jan 5, 2025",
         "status": "Active"
       },
       {
@@ -154,8 +154,8 @@
         "title": "Data Scientist",
         "location": "Australia",
         "applicants": 4,
-        "createdDate": "March 12, 2023",
-        "expiryDate": "March 12, 2026",
+        "createdDate": "Mar 12, 2023",
+        "expiryDate": "Mar 12, 2026",
         "status": "Expired"
       },
       {
@@ -163,8 +163,8 @@
         "title": "UX/UI Designer",
         "location": "France",
         "applicants": 0,
-        "createdDate": "December 8, 2023",
-        "expiryDate": "December 8, 2028",
+        "createdDate": "Dec 8, 2023",
+        "expiryDate": "Dec 8, 2028",
         "status": "Active"
       },
       {
@@ -172,8 +172,8 @@
         "title": "Backend Developer",
         "location": "Brazil",
         "applicants": 2,
-        "createdDate": "July 30, 2022",
-        "expiryDate": "July 30, 2024",
+        "createdDate": "Jul 30, 2022",
+        "expiryDate": "Jul 30, 2024",
         "status": "Active"
       },
       {
@@ -181,8 +181,8 @@
         "title": "Project Manager",
         "location": "Japan",
         "applicants": 1,
-        "createdDate": "October 17, 2023",
-        "expiryDate": "October 17, 2027",
+        "createdDate": "Oct 17, 2023",
+        "expiryDate": "Oct 17, 2027",
         "status": "Expired"
       },
       {
@@ -190,8 +190,8 @@
         "title": "DevOps Engineer",
         "location": "United Kingdom",
         "applicants": 3,
-        "createdDate": "August 2, 2022",
-        "expiryDate": "August 2, 2025",
+        "createdDate": "Aug 2, 2022",
+        "expiryDate": "Aug 2, 2025",
         "status": "Active"
       },
       {
@@ -199,8 +199,8 @@
         "title": "Sales Manager",
         "location": "Spain",
         "applicants": 0,
-        "createdDate": "February 14, 2024",
-        "expiryDate": "February 14, 2026",
+        "createdDate": "Feb 14, 2024",
+        "expiryDate": "Feb 14, 2026",
         "status": "Active"
       }
     ],
