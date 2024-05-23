@@ -1,352 +1,438 @@
 {
-    "jobs": [
-      {
-        "id": "1",
-        "jobTitle": "Product Designer",
-        "companyName": "Google Inc.",
-        "location": "California, USA",
-        "salary": "15k",
-        "employmentType": "Full Time",
-        "experience": "Senior Designer",
-        "experienceminyr": "6",
-        "experiencemaxyr": "11"
-      },
-      {
-        "id": "2",
-        "jobTitle": "Product Manager",
-        "companyName": "Google Inc.",
-        "location": "Kolhapur, India",
-        "salary": "20k",
-        "employmentType": "Part Time",
-        "experience": "Senior Manager",
-        "experienceminyr": "9",
-        "experiencemaxyr": "11"
-      },
-      {
-        "id": "3",
-        "jobTitle": "Software Engineer",
-        "companyName": "Facebook",
-        "location": "New York, USA",
-        "salary": "18k",
-        "employmentType": "Full Time",
-        "experience": "Senior Engineer",
-        "experienceminyr": "6",
-        "experiencemaxyr": "7"
-  
-      },
-      {
-        "id": "4",
-        "jobTitle": "Data Scientist",
-        "companyName": "Amazon",
-        "location": "London, UK",
-        "salary": "22k",
-        "employmentType": "Full Time",
-        "experience": "Senior Scientist",
-        "experienceminyr": "9",
-        "experiencemaxyr": "11"
-      },
-      {
-        "id": "5",
-        "jobTitle": "Marketing Manager",
-        "companyName": "Apple Inc.",
-        "location": "Tokyo, Japan",
-        "salary": "25k",
-        "employmentType": "Full Time",
-        "experience": "Senior Manager",
-        "experienceminyr": "6",
-        "experiencemaxyr": "11"
-      },
-      {
-        "id": "6",
-        "jobTitle": "UX/UI Designer",
-        "companyName": "Microsoft",
-        "location": "Seattle, USA",
-        "salary": "17k",
-        "employmentType": "Full Time",
-        "experience": "Senior Designer",
-        "experienceminyr": "6",
-        "experiencemaxyr": "11"
-      },
-      {
-        "id": "7",
-        "jobTitle": "Frontend Developer",
-        "companyName": "Netflix",
-        "location": "Los Angeles, USA",
-        "salary": "19k",
-        "employmentType": "Full Time",
-        "experience": "Senior Developer",
-        "experienceminyr": "6",
-        "experiencemaxyr": "11"
-      },
-      {
-        "id": "8",
-        "jobTitle": "Sales Executive",
-        "companyName": "Tesla Inc.",
-        "location": "Berlin, Germany",
-        "salary": "16k",
-        "employmentType": "Full Time",
-        "experience": "Senior Executive",
-        "experienceminyr": "6",
-        "experiencemaxyr": "11"
-      },
-      {
-        "id": "9",
-        "jobTitle": "Financial Analyst",
-        "companyName": "IBM",
-        "location": "Paris, France",
-        "salary": "21k",
-        "employmentType": "Full Time",
-        "experience": "Senior Analyst",
-        "experienceminyr": "6",
-        "experiencemaxyr": "11"
-      },
-      {
-        "id": "10",
-        "jobTitle": "HR Manager",
-        "companyName": "Intel Corporation",
-        "location": "Bangalore, India",
-        "salary": "23k",
-        "employmentType": "Full Time",
-        "experience": "Senior Manager",
-        "experienceminyr": "6",
-        "experiencemaxyr": "11"
-      }
-    ],
-    "employers": [
-      {
-        "id": 1,
-        "title": "Product Designer",
-        "location": "India",
-        "applicants": 0,
-        "createdDate": "Jun 20, 2023",
-        "expiryDate": "Jun 21, 2029",
-        "status": "Active"
-      },
-      {
-        "id": 2,
-        "title": "Software Engineer",
-        "location": "United States",
-        "applicants": 3,
-        "createdDate": "May 15, 2022",
-        "expiryDate": "May 15, 2025",
-        "status": "Expired"
-      },
-      {
-        "id": 3,
-        "title": "Marketing Manager",
-        "location": "Canada",
-        "applicants": 1,
-        "createdDate": "Apr 10, 2024",
-        "expiryDate": "Apr 10, 2026",
-        "status": "Active"
-      },
-      {
-        "id": 4,
-        "title": "Frontend Developer",
-        "location": "Germany",
-        "applicants": 2,
-        "createdDate": "Jan 5, 2023",
-        "expiryDate": "Jan 5, 2025",
-        "status": "Active"
-      },
-      {
-        "id": 5,
-        "title": "Data Scientist",
-        "location": "Australia",
-        "applicants": 4,
-        "createdDate": "Mar 12, 2023",
-        "expiryDate": "Mar 12, 2026",
-        "status": "Expired"
-      },
-      {
-        "id": 6,
-        "title": "UX/UI Designer",
-        "location": "France",
-        "applicants": 0,
-        "createdDate": "Dec 8, 2023",
-        "expiryDate": "Dec 8, 2028",
-        "status": "Active"
-      },
-      {
-        "id": 7,
-        "title": "Backend Developer",
-        "location": "Brazil",
-        "applicants": 2,
-        "createdDate": "Jul 30, 2022",
-        "expiryDate": "Jul 30, 2024",
-        "status": "Active"
-      },
-      {
-        "id": 8,
-        "title": "Project Manager",
-        "location": "Japan",
-        "applicants": 1,
-        "createdDate": "Oct 17, 2023",
-        "expiryDate": "Oct 17, 2027",
-        "status": "Expired"
-      },
-      {
-        "id": 9,
-        "title": "DevOps Engineer",
-        "location": "United Kingdom",
-        "applicants": 3,
-        "createdDate": "Aug 2, 2022",
-        "expiryDate": "Aug 2, 2025",
-        "status": "Active"
-      },
-      {
-        "id": 10,
-        "title": "Sales Manager",
-        "location": "Spain",
-        "applicants": 0,
-        "createdDate": "Feb 14, 2024",
-        "expiryDate": "Feb 14, 2026",
-        "status": "Active"
-      }
-    ],
-    "candidates":[
-      {
-        "id": 1,
-        "name": "Alice Smith",
-        "profession": "Software Engineer",
-        "education": "Bachelor's in Computer Science",
-        "experience": 5,
-        "location": "Kolhapur, India"
-      },
-      {
-        "id": 2,
-        "name": "Bob Johnson",
-        "profession": "Data Scientist",
-        "education": "Master's in Statistics",
-        "experience": 3,
-        "location": "Toronto, Canada"
-      },
-      {
-        "id": 3,
-        "name": "Charlie Brown",
-        "profession": "UX/UI Designer",
-        "education": "Bachelor's in Graphic Design",
-        "experience": 4,
-        "location": "London, UK"
-      },
-      {
-        "id": 4,
-        "name": "David Lee",
-        "profession": "Product Manager",
-        "education": "Master's in Business Administration",
-        "experience": 6,
-        "location": "Sydney, Australia"
-      },
-      {
-        "id": 5,
-        "name": "Emma Garcia",
-        "profession": "Marketing Specialist",
-        "education": "Bachelor's in Marketing",
-        "experience": 2,
-        "location": "Madrid, Spain"
-      },
-      {
-        "id": 6,
-        "name": "Frank Miller",
-        "profession": "Frontend Developer",
-        "education": "Bachelor's in Computer Science",
-        "experience": 4,
-        "location": "Berlin, Germany"
-      },
-      {
-        "id": 7,
-        "name": "Grace Martinez",
-        "profession": "Project Manager",
-        "education": "Master's in Project Management",
-        "experience": 7,
-        "location": "Paris, France"
-      },
-      {
-        "id": 8,
-        "name": "Henry Wilson",
-        "profession": "DevOps Engineer",
-        "education": "Bachelor's in Information Technology",
-        "experience": 5,
-        "location": "Tokyo, Japan"
-      },
-      {
-        "id": 9,
-        "name": "Ivy Clark",
-        "profession": "Sales Representative",
-        "education": "Bachelor's in Business Administration",
-        "experience": 3,
-        "location": "São Paulo, Brazil"
-      },
-      {
-        "id": 10,
-        "name": "Jack Thompson",
-        "profession": "Customer Support Specialist",
-        "education": "Bachelor's in Communication",
-        "experience": 2,
-        "location": "Mumbai, India"
-      }
-    ],
-    "consultants":[
-      {
-        "id": 1,
-        "name": "Mr. John Doe",
-        "profession": "Software Consultant",
-        "location": "Kolhapur, India"
-      },
-      {
-        "id": 2,
-        "name": "Mrs. Jane Smith",
-        "profession": "Management Consultant",
-        "location": "Pune, India"
-      },
-      {
-        "id": 3,
-        "name": "Mr. Michael Johnson",
-        "profession": "Financial Consultant",
-        "location": "Toronto, Canada"
-      },
-      {
-        "id": 4,
-        "name": "Mrs. Emily Brown",
-        "profession": "Marketing Consultant",
-        "location": "Sydney, Australia"
-      },
-      {
-        "id": 5,
-        "name": "Mr. Alex Garcia",
-        "profession": "HR Consultant",
-        "location": "Madrid, Spain"
-      },
-      {
-        "id": 6,
-        "name": "Mr. William Clark",
-        "profession": "Legal Consultant",
-        "location": "Berlin, Germany"
-      },
-      {
-        "id": 7,
-        "name": "Mrs. Sophia Martinez",
-        "profession": "Healthcare Consultant",
-        "location": "Paris, France"
-      },
-      {
-        "id": 8,
-        "name": "Mr. Oliver Wilson",
-        "profession": "IT Consultant",
-        "location": "Tokyo, Japan"
-      },
-      {
-        "id": 9,
-        "name": "Mrs. Chloe Adams",
-        "profession": "Education Consultant",
-        "location": "Sao Paulo, Brazil"
-      },
-      {
-        "id": 10,
-        "name": "Mr. Ethan Thomas",
-        "profession": "Engineering Consultant",
-        "location": "Mumbai, India"
-      }
-    ]
-  }
-  
+  "jobs": [
+    {
+      "title": "Software Engineer",
+      "company": "Tech Solutions Inc.",
+      "description": "Description of the job for a Software Engineer position.",
+      "opening": "3",
+      "job_category": "Software Engineer",
+      "min_experience": "2",
+      "max_experience": "5",
+      "qualification": "B.E.",
+      "start_date": "01/06/2024",
+      "end_date": "30/06/2024",
+      "job_type": "Full Time",
+      "location": [
+        "Mumbai",
+        "Pune"
+      ],
+      "salary_min": "50000",
+      "salary_max": "80000",
+      "responsibilities": "Responsibilities include coding, testing, and debugging software applications.",
+      "skills": [
+        "Java",
+        "Spring Boot"
+      ],
+      "id": "fakeID1"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "DataTech Corp",
+      "description": "Description of the job for a Data Scientist position.",
+      "opening": "2",
+      "job_category": "Data Scientist",
+      "min_experience": "3",
+      "max_experience": "6",
+      "qualification": "M.S.",
+      "start_date": "05/06/2024",
+      "end_date": "30/06/2024",
+      "job_type": "Full Time",
+      "location": [
+        "Nagpur",
+        "Navi Mumbai"
+      ],
+      "salary_min": "70000",
+      "salary_max": "100000",
+      "responsibilities": "Responsibilities include analyzing complex data sets and presenting insights.",
+      "skills": [
+        "Machine Learning",
+        "Python"
+      ],
+      "id": "fakeID2"
+    },
+    {
+      "title": "HR Manager",
+      "company": "PeopleFirst Solutions",
+      "description": "Description of the job for an HR Manager position.",
+      "opening": "1",
+      "job_category": "HR Manager",
+      "min_experience": "5",
+      "max_experience": "8",
+      "qualification": "MBA",
+      "start_date": "10/06/2024",
+      "end_date": "30/07/2024",
+      "job_type": "Full Time",
+      "location": [
+        "Mumbai"
+      ],
+      "salary_min": "80000",
+      "salary_max": "120000",
+      "responsibilities": "Responsibilities include recruitment, training, and employee relations.",
+      "skills": [
+        "Human Resources",
+        "Recruitment"
+      ],
+      "id": "fakeID3"
+    },
+    {
+      "title": "Business Analyst",
+      "company": "BizTech Solutions",
+      "description": "Description of the job for a Business Analyst position.",
+      "opening": "2",
+      "job_category": "Business Analyst",
+      "min_experience": "2",
+      "max_experience": "4",
+      "qualification": "BBA",
+      "start_date": "15/06/2024",
+      "end_date": "30/07/2024",
+      "job_type": "Full Time",
+      "location": [
+        "Pune",
+        "Nashik"
+      ],
+      "salary_min": "60000",
+      "salary_max": "90000",
+      "responsibilities": "Responsibilities include analyzing business processes and identifying opportunities for improvement.",
+      "skills": [
+        "Business Analysis",
+        "Requirements Gathering"
+      ],
+      "id": "fakeID4"
+    },
+    {
+      "title": "Marketing Specialist",
+      "company": "Advertio Solutions",
+      "description": "Description of the job for a Marketing Specialist position.",
+      "opening": "2",
+      "job_category": "Marketing Specialist",
+      "min_experience": "3",
+      "max_experience": "5",
+      "qualification": "BBA",
+      "start_date": "10/07/2024",
+      "end_date": "31/07/2024",
+      "job_type": "Part Time",
+      "location": [
+        "Mumbai",
+        "Thane"
+      ],
+      "salary_min": "40000",
+      "salary_max": "60000",
+      "responsibilities": "Responsibilities include developing marketing campaigns and analyzing market trends.",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing"
+      ],
+      "id": "fakeID5"
+    },
+    {
+      "title": "UI/UX Designer",
+      "company": "DesignScape Studio",
+      "description": "Description of the job for a UI/UX Designer position.",
+      "opening": "1",
+      "job_category": "UI/UX Designer",
+      "min_experience": "2",
+      "max_experience": "4",
+      "qualification": "B.Des.",
+      "start_date": "01/07/2024",
+      "end_date": "31/07/2024",
+      "job_type": "Full Time",
+      "location": [
+        "Mumbai"
+      ],
+      "salary_min": "60000",
+      "salary_max": "90000",
+      "responsibilities": "Responsibilities include designing user interfaces and conducting user research.",
+      "skills": [
+        "UI Design",
+        "Prototyping"
+      ],
+      "id": "fakeID6"
+    },
+    {
+      "title": "Project Manager",
+      "company": "ProjectX Inc.",
+      "description": "Description of the job for a Project Manager position.",
+      "opening": "2",
+      "job_category": "Project Manager",
+      "min_experience": "5",
+      "max_experience": "8",
+      "qualification": "MBA",
+      "start_date": "15/07/2024",
+      "end_date": "31/07/2024",
+      "job_type": "Full Time",
+      "location": [
+        "Mumbai",
+        "Pune"
+      ],
+      "salary_min": "80000",
+      "salary_max": "120000",
+      "responsibilities": "Responsibilities include overseeing project timelines and deliverables.",
+      "skills": [
+        "Project Management",
+        "Leadership"
+      ],
+      "id": "fakeID7"
+    },
+    {
+      "title": "Sales Representative",
+      "company": "SalesPro Solutions",
+      "description": "Description of the job for a Sales Representative position.",
+      "opening": "3",
+      "job_category": "Sales Representative",
+      "min_experience": "2",
+      "max_experience": "4",
+      "qualification": "B.Com.",
+      "start_date": "20/07/2024",
+      "end_date": "31/08/2024",
+      "job_type": "Full Time",
+      "location": [
+        "Mumbai",
+        "Nagpur"
+      ],
+      "salary_min": "50000",
+      "salary_max": "80000",
+      "responsibilities": "Responsibilities include generating leads and closing sales deals.",
+      "skills": [
+        "Sales",
+        "Negotiation"
+      ],
+      "id": "fakeID8"
+    }
+  ],
+  "employers": [
+    {
+      "id": 1,
+      "title": "Product Designer",
+      "location": "India",
+      "applicants": 0,
+      "createdDate": "Jun 20, 2023",
+      "expiryDate": "Jun 21, 2029",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "title": "Software Engineer",
+      "location": "United States",
+      "applicants": 3,
+      "createdDate": "May 15, 2022",
+      "expiryDate": "May 15, 2025",
+      "status": "Expired"
+    },
+    {
+      "id": 3,
+      "title": "Marketing Manager",
+      "location": "Canada",
+      "applicants": 1,
+      "createdDate": "Apr 10, 2024",
+      "expiryDate": "Apr 10, 2026",
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "title": "Frontend Developer",
+      "location": "Germany",
+      "applicants": 2,
+      "createdDate": "Jan 5, 2023",
+      "expiryDate": "Jan 5, 2025",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "title": "Data Scientist",
+      "location": "Australia",
+      "applicants": 4,
+      "createdDate": "Mar 12, 2023",
+      "expiryDate": "Mar 12, 2026",
+      "status": "Expired"
+    },
+    {
+      "id": 6,
+      "title": "UX/UI Designer",
+      "location": "France",
+      "applicants": 0,
+      "createdDate": "Dec 8, 2023",
+      "expiryDate": "Dec 8, 2028",
+      "status": "Active"
+    },
+    {
+      "id": 7,
+      "title": "Backend Developer",
+      "location": "Brazil",
+      "applicants": 2,
+      "createdDate": "Jul 30, 2022",
+      "expiryDate": "Jul 30, 2024",
+      "status": "Active"
+    },
+    {
+      "id": 8,
+      "title": "Project Manager",
+      "location": "Japan",
+      "applicants": 1,
+      "createdDate": "Oct 17, 2023",
+      "expiryDate": "Oct 17, 2027",
+      "status": "Expired"
+    },
+    {
+      "id": 9,
+      "title": "DevOps Engineer",
+      "location": "United Kingdom",
+      "applicants": 3,
+      "createdDate": "Aug 2, 2022",
+      "expiryDate": "Aug 2, 2025",
+      "status": "Active"
+    },
+    {
+      "id": 10,
+      "title": "Sales Manager",
+      "location": "Spain",
+      "applicants": 0,
+      "createdDate": "Feb 14, 2024",
+      "expiryDate": "Feb 14, 2026",
+      "status": "Active"
+    }
+  ],
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Alice Smith",
+      "profession": "Software Engineer",
+      "education": "Bachelor's in Computer Science",
+      "experience": 5,
+      "location": "Kolhapur, India"
+    },
+    {
+      "id": 2,
+      "name": "Bob Johnson",
+      "profession": "Data Scientist",
+      "education": "Master's in Statistics",
+      "experience": 3,
+      "location": "Toronto, Canada"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "profession": "UX/UI Designer",
+      "education": "Bachelor's in Graphic Design",
+      "experience": 4,
+      "location": "London, UK"
+    },
+    {
+      "id": 4,
+      "name": "David Lee",
+      "profession": "Product Manager",
+      "education": "Master's in Business Administration",
+      "experience": 6,
+      "location": "Sydney, Australia"
+    },
+    {
+      "id": 5,
+      "name": "Emma Garcia",
+      "profession": "Marketing Specialist",
+      "education": "Bachelor's in Marketing",
+      "experience": 2,
+      "location": "Madrid, Spain"
+    },
+    {
+      "id": 6,
+      "name": "Frank Miller",
+      "profession": "Frontend Developer",
+      "education": "Bachelor's in Computer Science",
+      "experience": 4,
+      "location": "Berlin, Germany"
+    },
+    {
+      "id": 7,
+      "name": "Grace Martinez",
+      "profession": "Project Manager",
+      "education": "Master's in Project Management",
+      "experience": 7,
+      "location": "Paris, France"
+    },
+    {
+      "id": 8,
+      "name": "Henry Wilson",
+      "profession": "DevOps Engineer",
+      "education": "Bachelor's in Information Technology",
+      "experience": 5,
+      "location": "Tokyo, Japan"
+    },
+    {
+      "id": 9,
+      "name": "Ivy Clark",
+      "profession": "Sales Representative",
+      "education": "Bachelor's in Business Administration",
+      "experience": 3,
+      "location": "São Paulo, Brazil"
+    },
+    {
+      "id": 10,
+      "name": "Jack Thompson",
+      "profession": "Customer Support Specialist",
+      "education": "Bachelor's in Communication",
+      "experience": 2,
+      "location": "Mumbai, India"
+    }
+  ],
+  "consultants": [
+    {
+      "id": 1,
+      "name": "Mr. John Doe",
+      "profession": "Software Consultant",
+      "location": "Kolhapur, India"
+    },
+    {
+      "id": 2,
+      "name": "Mrs. Jane Smith",
+      "profession": "Management Consultant",
+      "location": "Pune, India"
+    },
+    {
+      "id": 3,
+      "name": "Mr. Michael Johnson",
+      "profession": "Financial Consultant",
+      "location": "Toronto, Canada"
+    },
+    {
+      "id": 4,
+      "name": "Mrs. Emily Brown",
+      "profession": "Marketing Consultant",
+      "location": "Sydney, Australia"
+    },
+    {
+      "id": 5,
+      "name": "Mr. Alex Garcia",
+      "profession": "HR Consultant",
+      "location": "Madrid, Spain"
+    },
+    {
+      "id": 6,
+      "name": "Mr. William Clark",
+      "profession": "Legal Consultant",
+      "location": "Berlin, Germany"
+    },
+    {
+      "id": 7,
+      "name": "Mrs. Sophia Martinez",
+      "profession": "Healthcare Consultant",
+      "location": "Paris, France"
+    },
+    {
+      "id": 8,
+      "name": "Mr. Oliver Wilson",
+      "profession": "IT Consultant",
+      "location": "Tokyo, Japan"
+    },
+    {
+      "id": 9,
+      "name": "Mrs. Chloe Adams",
+      "profession": "Education Consultant",
+      "location": "Sao Paulo, Brazil"
+    },
+    {
+      "id": 10,
+      "name": "Mr. Ethan Thomas",
+      "profession": "Engineering Consultant",
+      "location": "Mumbai, India"
+    }
+  ]
+}
